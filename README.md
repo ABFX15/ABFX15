@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ABFX15
-- 👀 I’m interested in crypto, building trading algorithims (stat-arb and triangular-arb), and web3
+- 👀 I’m interested in crypto,web3 and building trading algorithims (anything arbitrage)
 - 🌱 I’m currently learning Python and Solidity 
 - 💞️ I’m looking to collaborate on any crypto trading algorithims or solidity porjects
 - 📫 Please feel free to drop me a message
