@@ -18,7 +18,8 @@ Junior Solidity Developer exploring the world of blockchain and decentralized te
 - Music Streaming dApp with Account Abstraction
 
 ## 📚 Learning Goals
-- Master Smart Contract Development
-- Contribute to Open Source Web3 Projects
-- Deepen Understanding of Blockchain Ecosystems
-- Join Hackathons
+- Master smart contract development
+- Contribute to open source web3 projects
+- Deepen understanding of blockchain ecosystems
+- Join Hackathons to work with others
+- Smart contract security
