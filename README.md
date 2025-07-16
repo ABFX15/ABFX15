@@ -6,9 +6,11 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 ## 👨‍💻 About Me
-Self taught Solidity Smart Contract Developer!
+Self taught Smart Contract Developer! Both EVM and SVM!
 
 ## 🛠 Tech Stack
+- Rust - learning
+- Python
 - Solidity
 - Hardhat
 - Foundry
