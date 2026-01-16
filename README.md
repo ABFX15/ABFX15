@@ -6,7 +6,8 @@
 
 ## 👨‍💻 About Me
 
-Smart Contract Developer specializing in Solana/Rust with an EVM background. Graduate of Turbin3 Builders Cohort and Ackee Blockchain Security Season 7.
+Building Settlr Pay - Accept any SPL token and get paid instantly in USDC. No wallet. No gas fees. 
+Solana Developer specializing in Solana/Rust. Graduate of Turbin3 Builders.
 
 ## 🛠 Tech Stack
 
