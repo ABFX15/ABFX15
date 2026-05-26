@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Building Settlr Pay - Accept any SPL token and get paid instantly in USDC. No wallet. No gas fees. 
+Building Offbank Pay, No more being debanked. Send and receive invoices using stablecoins/USDC, you have control over your funds. No wallet required. No gas fees. 
 Solana Developer specializing in Solana/Rust. Graduate of Turbin3 Builders.
 
 ## 🛠 Tech Stack
